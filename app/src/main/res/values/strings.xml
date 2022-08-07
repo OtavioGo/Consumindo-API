@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TesteCepAPIKotlin</string>
+    <string name="txt_cep">CEP</string>
+    <string name="txt_logradouro">logradouro</string>
+    <string name="txt_complemento">complemento</string>
+    <string name="txt_bairro">bairro</string>
+    <string name="txt_localidade">localidade</string>
+    <string name="txt_uf">uf</string>
+    <string name="txt_ibge">ibge</string>
+    <string name="txt_gia">gia</string>
+    <string name="txt_ddd">ddd</string>
+    <string name="txt_siafi">siafi</string>
+    <string name="hint_cep">CEP</string>
+    <string name="txt_confirm">confirmar</string>
+</resources>
